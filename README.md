@@ -1,2 +1,2 @@
 # CPP_Primer
-Notebook for "C++ Primer, 5e" Learning
+This is my notebook for *C++ Primer, 5e* learning
