@@ -1,3 +1,6 @@
+#ifndef BOOK_HEADER
+#define BOOK_HEADER
+
 #include <iostream>
 
 extern const double PI = 3.1415926;
@@ -92,3 +95,7 @@ private:
     int count;
     double priceEach;
 };
+
+#endif // !BOOK_HEADER
+
+
